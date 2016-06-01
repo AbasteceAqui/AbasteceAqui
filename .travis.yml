@@ -2,7 +2,8 @@ language:
       - ruby
 
 before_script:
-  - gem install rspec rspec-rails simplecov
+ - cd /AbasteceAqui
+ - gem install rspec rspec-rails simplecov
 
 script:
         - bundle exec rspec spec
