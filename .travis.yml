@@ -6,6 +6,7 @@ before_script:
  - gem install rspec rspec-rails simplecov
 
 script:
+	- bundle install
         - bundle exec rspec spec
 rvm:
   - 2.2.0
