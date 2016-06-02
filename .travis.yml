@@ -15,7 +15,7 @@ rvm:
 notifications:
   email:
     recipients:
-      - jonatas_lenon@hotmail.com.br
+      - jonatas_lenon@hotmail.com
       - joaaogui@gmail.com
       - marceloabk@hotmail.com
       - victor.hmfd@gmail.com
