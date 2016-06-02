@@ -27,4 +27,4 @@ notifications:
 
 branches:
   only:
-  - Travis
+  - homologacao
