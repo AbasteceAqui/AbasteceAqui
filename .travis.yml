@@ -16,6 +16,14 @@ notifications:
   email:
     recipients:
       - jonatas_lenon@hotmail.com.br
+      - joaaogui@gmail.com
+      - marceloabk@hotmail.com
+      - victor.hmfd@gmail.com
+      - thiagolima.unb@gmail.com
+      - marco.antoniorl10@gmail.com
+      - andersoonn.ams@gmail.com
+      - ruandonato.net@gmail.com
+      - ygor.tgaleno@gmail.com
 
 branches:
   only:
